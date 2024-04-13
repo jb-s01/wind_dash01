@@ -2,7 +2,7 @@
 Plotly Dash app to visualize the Canadian Wind Turbine Database
 ---
 
-## Data ##: 
+## Data: 
 https://open.canada.ca/data/en/dataset/79fdad93-9025-49ad-ba16-c26d718cc070
 
 **Description of Data Asset:** 
